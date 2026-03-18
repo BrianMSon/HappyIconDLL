@@ -1,6 +1,6 @@
 # HappyIconDLL
 
-Windows 애플리케이션용 아이콘 리소스 DLL입니다. 150개의 아이콘을 하나의 DLL 파일에 담아 제공합니다.
+Windows 애플리케이션용 아이콘 리소스 DLL입니다. 200개의 아이콘을 하나의 DLL 파일에 담아 제공합니다.
 
 ## 미리보기
 
@@ -218,6 +218,71 @@ Windows 애플리케이션용 아이콘 리소스 DLL입니다. 150개의 아이
 | 149 | stock_down | 주가 하락 |
 | 150 | stock_up | 주가 상승 |
 
+### Education & Knowledge (ID 151~167)
+
+| ID | 이름 | 설명 |
+|----|------|------|
+| 151 | book | 책 |
+| 152 | certificate | 인증서 |
+| 153 | chalkboard | 칠판 |
+| 154 | compass_draw | 제도용 컴퍼스 |
+| 155 | globe | 지구본 |
+| 156 | graduation | 졸업 |
+| 157 | ink_well | 잉크병 |
+| 158 | library | 도서관 |
+| 159 | microscope | 현미경 |
+| 160 | notebook | 노트북 |
+| 161 | oil_lamp | 오일 램프 |
+| 162 | open_book | 펼친 책 |
+| 163 | pen | 펜 |
+| 164 | pencil | 연필 |
+| 165 | ruler | 자 |
+| 166 | scroll | 두루마리 |
+| 167 | telescope | 망원경 |
+
+### Art & Culture (ID 168~184)
+
+| ID | 이름 | 설명 |
+|----|------|------|
+| 168 | amphora | 암포라 |
+| 169 | candle | 촛불 |
+| 170 | chess | 체스 |
+| 171 | crown | 왕관 |
+| 172 | film | 필름 |
+| 173 | hourglass | 모래시계 |
+| 174 | laurel | 월계관 |
+| 175 | lyre | 리라 |
+| 176 | masks | 가면 |
+| 177 | medal | 메달 |
+| 178 | music_note | 음표 |
+| 179 | origami | 종이접기 |
+| 180 | paint_brush | 붓 |
+| 181 | palette | 팔레트 |
+| 182 | quill | 깃펜 |
+| 183 | theater | 극장 |
+| 184 | trophy | 트로피 |
+
+### Nature & Life (ID 185~200)
+
+| ID | 이름 | 설명 |
+|----|------|------|
+| 185 | anchor | 닻 |
+| 186 | bird | 새 |
+| 187 | butterfly | 나비 |
+| 188 | crystal | 크리스탈 |
+| 189 | feather | 깃털 |
+| 190 | fire | 불 |
+| 191 | flower | 꽃 |
+| 192 | leaf | 잎 |
+| 193 | lighthouse | 등대 |
+| 194 | moon | 달 |
+| 195 | mountain | 산 |
+| 196 | rainbow | 무지개 |
+| 197 | snowflake | 눈꽃 |
+| 198 | sun | 태양 |
+| 199 | tree | 나무 |
+| 200 | wave | 파도 |
+
 ## DLL 정보
 
 | 항목 | 내용 |
@@ -225,7 +290,7 @@ Windows 애플리케이션용 아이콘 리소스 DLL입니다. 150개의 아이
 | 파일 | `HappyIcon.dll` |
 | 아키텍처 | x86-64 |
 | 아이콘 크기 | 16x16, 24x24, 32x32 (32bpp ARGB) |
-| 파일 크기 | ~442 KB |
+| 파일 크기 | ~601 KB |
 | 종류 | 리소스 전용 DLL (실행 코드 없음) |
 
 ## 라이선스
